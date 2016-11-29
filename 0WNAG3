@@ -1,0 +1,88 @@
+logoCodeshare For InterviewsLog In
+
+1
+<html>
+2
+  <style>
+3
+body {background-color: 003300;}
+4
+h1   {color:  000000;}
+5
+​
+6
+</style>
+7
+  <head>
+8
+      <script  src="https://code.jquery.com/jquery-3.1.1.js"  integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+9
+  crossorigin="anonymous"></script>
+10
+      
+11
+      <!-- Latest compiled and minified CSS -->
+12
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+13
+​
+14
+<!-- Optional theme -->
+15
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+16
+​
+17
+<!-- Latest compiled and minified JavaScript -->
+18
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+19
+​
+20
+      
+21
+      <script>
+22
+          
+23
+         $(document).ready(function() {
+24
+   //alert( "ready!" );
+25
+             $('#btnModal').click();
+26
+});
+27
+          
+28
+          
+29
+      
+30
+          function showMessage(){
+31
+              
+32
+            
+33
+          }
+34
+          
+35
+      </script>
+36
+      
+37
+      
+38
+      
+39
+      
+40
+    <title>0WNAG3</title>
+41
+  </head>
+42
+  <body onloadstart="greetings()" onload="showMessage()" style="background: rgb(0, 100, 0);">
+
+
